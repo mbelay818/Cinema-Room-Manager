@@ -1,0 +1,15 @@
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore configuration files
+*.yaml
+
+# Ignore gradle folder
+gradle 
+
+# Ignore Topics folder
+Topics
+
+# Ignore all html files
+*.html

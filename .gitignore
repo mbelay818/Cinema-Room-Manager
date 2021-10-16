@@ -13,3 +13,12 @@ Topics
 
 # Ignore all html files
 *.html
+
+# Ignore gradle files
+*.gradle
+
+# Ignore xml files
+*.xml
+
+# Ignore idea folders
+.idea
